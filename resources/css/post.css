@@ -34,7 +34,6 @@ body {
     font-weight: bold;
 }
 
-/* Form Container */
 .form-container {
     width: 80%;
     margin: 20px auto;
@@ -50,7 +49,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Form Styles */
 .form-group {
     margin-bottom: 15px;
 }
@@ -83,7 +81,6 @@ body {
     margin-top: 10px;
 }
 
-/* Button Styling */
 .form-actions {
     text-align: center;
     margin-top: 20px;
